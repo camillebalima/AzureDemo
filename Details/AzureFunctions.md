@@ -20,10 +20,10 @@ This file describes a small demo using Azure Functions and Visual Studio 2019. I
 ### Create Project in Visual Studio 2019
  ![Create Project](https://github.com/camillebalima/AzureDemo/blob/master/Images/CreateProject.PNG)
  
-### Create First Azure Function
+### Create First Azure Function - [Full code here](https://github.com/camillebalima/AzureDemo/blob/master/GithubMonitor/GithubMonitor/GitHubMonitor.cs)
  ![Create First Azure Function](https://github.com/camillebalima/AzureDemo/blob/master/Images/Function1/GithubMonitor.PNG)
  
-### Create Second Azure Function
+### Create Second Azure Function - [Full code here](https://github.com/camillebalima/AzureDemo/blob/master/GithubMonitor/GithubMonitor/GithubMonitorWithModels.cs)
 ![Create Second Azure Function](https://github.com/camillebalima/AzureDemo/blob/master/Images/Function2/GithubMonitorWithClassesFunction.PNG)
 ### Publish to Microsoft Azure
 ![Publish to Microsoft Azure](https://github.com/camillebalima/AzureDemo/blob/master/Images/Publish1.PNG)
