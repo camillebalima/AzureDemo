@@ -1,7 +1,7 @@
 # Introduction
 This file describes a small demo using Azure Functions and Visual Studio 2019. It demonstrates the following:
    * Send message to the Azure Monitor Invocation Details As a JSON Object
-   * Send message to the Azure Monitor Invocation Details As a string (using some informations sent in the JSON Object)
+   * Send message to the Azure Monitor Invocation Details As a string (using some information sent in the JSON Object)
    * Export excel spreadsheet to a generated XML file.
 
 
@@ -43,4 +43,4 @@ This file describes a small demo using Azure Functions and Visual Studio 2019. I
 ![Function 2](https://github.com/camillebalima/AzureDemo/blob/master/Images/Function2/GithubMonitorWithClasses.PNG)
 
 # Conclusion
-After a lot of effort and reasearch, I have been able to understand the use of azure functions. It has been difficult to understand it but eventually it has been a great experience. I understand the importance of Azure functions in the professional environement.
+After a lot of effort and research, I have been able to understand the use of azure functions. It has been difficult to understand it, but eventually it has been a great experience. I understand the importance of Azure functions in the professional environment.
