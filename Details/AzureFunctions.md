@@ -18,7 +18,28 @@ This file describes a small demo using Azure Functions and Visual Studio 2019. I
 # Images
 
 ### Create Project in Visual Studio 2019
- ![Before Import](https://github.com/camillebalima/XMLDemo/blob/main/img/BeforeImport.PNG)
+ ![Create Project](https://github.com/camillebalima/AzureDemo/blob/master/Images/CreateProject.PNG)
+ 
+### Create First Azure Function
+ ![Create First Azure Function](https://github.com/camillebalima/AzureDemo/blob/master/Images/Function1/GithubMonitor.PNG)
+ 
+### Create Second Azure Function
+![Create Second Azure Function]()
+### Publish to Microsoft Azure
+![Publish to Microsoft Azure](https://github.com/camillebalima/AzureDemo/blob/master/Images/Publish1.PNG)
+![Publish to Microsoft Azure](https://github.com/camillebalima/AzureDemo/blob/master/Images/FunctionsList.PNG)
 
+### Copy URL
+![Copy URL](https://github.com/camillebalima/AzureDemo/blob/master/Images/Github/Step3-1.PNG)
+### Paste on Github
+![Paste on Github](https://github.com/camillebalima/AzureDemo/blob/master/Images/Github/Step1.PNG)
+![Paste on Github](https://github.com/camillebalima/AzureDemo/blob/master/Images/Github/Step2.PNG)
+![Paste on Github](https://github.com/camillebalima/AzureDemo/blob/master/Images/Github/Step4.PNG)
+
+### See Results After Push
+* Function 1
+![Function 1](https://github.com/camillebalima/AzureDemo/blob/master/Images/Function1/GithubMonitorAfter.PNG)
+* Function 2
+![Function 2](https://github.com/camillebalima/AzureDemo/blob/master/Images/Function2/GithubMonitorWithClasses.PNG)
 
 # Conclusion
