@@ -7,7 +7,7 @@ This file describes a small demo using Azure Functions and Visual Studio 2019. I
 
 # What I learned about Azure Functions
    * Gives the ability to run custom code on demand and at scale on the cloud
-   * Supports many languages (f C#, Java, JavaScript, Python, and PowerShell)
+   * Supports many languages (C#, Java, JavaScript, Python, and PowerShell)
    * There are multiple redundancies in place to maintain data access
    * Possibility to automate many repetitive tasks (Like in this demo)
    * It is Open-source
