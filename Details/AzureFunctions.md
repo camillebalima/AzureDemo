@@ -29,9 +29,9 @@ This file describes a small demo using Azure Functions and Visual Studio 2019. I
 ![Publish to Microsoft Azure](https://github.com/camillebalima/AzureDemo/blob/master/Images/Publish1.PNG)
 ![Publish to Microsoft Azure](https://github.com/camillebalima/AzureDemo/blob/master/Images/FunctionsList.PNG)
 
-### Copy URL
+### Copy URL (Do the same for both functions)
 ![Copy URL](https://github.com/camillebalima/AzureDemo/blob/master/Images/Github/Step3-1.PNG)
-### Paste on Github
+### Paste on Github (Do the same for both functions)
 ![Paste on Github](https://github.com/camillebalima/AzureDemo/blob/master/Images/Github/Step1.PNG)
 ![Paste on Github](https://github.com/camillebalima/AzureDemo/blob/master/Images/Github/Step2.PNG)
 ![Paste on Github](https://github.com/camillebalima/AzureDemo/blob/master/Images/Github/Step4.PNG)
