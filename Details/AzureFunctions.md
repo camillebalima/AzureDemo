@@ -17,7 +17,8 @@ This file describes a small demo using Azure Functions and Visual Studio 2019. I
 
 # Images
 
-
+### Create Project in Visual Studio 2019
+ ![Before Import](https://github.com/camillebalima/XMLDemo/blob/main/img/BeforeImport.PNG)
 
 
 # Conclusion
