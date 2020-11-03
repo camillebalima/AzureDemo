@@ -24,7 +24,7 @@ This file describes a small demo using Azure Functions and Visual Studio 2019. I
  ![Create First Azure Function](https://github.com/camillebalima/AzureDemo/blob/master/Images/Function1/GithubMonitor.PNG)
  
 ### Create Second Azure Function
-![Create Second Azure Function]()
+![Create Second Azure Function](https://github.com/camillebalima/AzureDemo/blob/master/Images/Function2/GithubMonitorWithClassesFunction.PNG)
 ### Publish to Microsoft Azure
 ![Publish to Microsoft Azure](https://github.com/camillebalima/AzureDemo/blob/master/Images/Publish1.PNG)
 ![Publish to Microsoft Azure](https://github.com/camillebalima/AzureDemo/blob/master/Images/FunctionsList.PNG)
