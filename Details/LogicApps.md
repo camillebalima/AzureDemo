@@ -25,4 +25,4 @@ This file describes a small demo using Azure Logic Apps. It demonstrates the fol
 
 
 # Conclusion
-After a lot of effort and research, I have been able to understand the use of azure functions. It has been difficult to understand it, but eventually it has been a great experience. I understand the importance of Azure functions in the professional environment.
+Since I did this demo after Azure Functions, it has been easier to do. I understand how useful it must be in a professional environment by processing tasks in the background automatically in some predefined use cases. I really enjoyed learning it.
